@@ -1,0 +1,12 @@
+.header {
+    position: fixed;
+    font-size: 35px;
+    font-family: 'Buda', cursive;
+    width: 100vw;
+    top: 0px;
+    left: 0px;
+    z-index: 150;
+    box-shadow: -0.9px 2px 5px rgba(0, 0, 0, 0.486);
+   background-color: rgba(255, 255, 255, 0.975);
+   text-align: center;
+}

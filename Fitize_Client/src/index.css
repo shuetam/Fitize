@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Buda';
+  src: local('Buda'), url(./Fonts/Buda-Light.ttf) format('truetype');
+} 
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+

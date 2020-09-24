@@ -1,0 +1,11 @@
+.mainContainer {
+    font-size: 20px;
+    font-family: 'Buda', cursive;
+  margin-top: 45px;
+}
+
+.mainContainerDisable {
+    font-size: 20px;
+    font-family: 'Buda', cursive;
+    visibility: hidden;
+}
